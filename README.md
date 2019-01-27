@@ -1,3 +1,3 @@
-#Todo App
+# Todo App
 
-##Simple todo app project in JavaScript.
+### Simple todo app project in JavaScript.
