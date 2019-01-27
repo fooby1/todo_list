@@ -1,0 +1,8 @@
+#outerBox {
+  background-color: #00FFFF;
+}
+
+#innerBox {
+  background-color: gray;
+  width: 90%
+}
